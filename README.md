@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tomás Gaspar [@tomvgaspar]
   > “Always improving.”
 
-I'm a WordPress & WooCommerce specialist focused on building **custom solutions** and continuously improving existing websites 🚀
+I'm a WordPress & WooCommerce developer focused on building **custom solutions** and continuously improving existing websites 🚀
 I work with real production stores (B2B & B2C), so everything I create is driven by **real business needs**, not just demos 🏪
 
 This repository is my personal space to:
