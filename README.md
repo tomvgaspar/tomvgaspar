@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Tomás Gaspar [@tomvgaspar]
+  > “Always improving.”
 
-<!--
-**tomvgaspar/tomvgaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a WordPress & WooCommerce specialist focused on building **custom solutions** and continuously improving existing websites 🚀
+I work with real production stores (B2B & B2C), so everything I create is driven by **real business needs**, not just demos 🏪
 
-Here are some ideas to get you started:
+This repository is my personal space to:
+- 🧩 Build and evolve a custom WordPress theme  
+- 🧪 Experiment with new ideas and features  
+- ⚡ Improve performance, UX and scalability  
+- 📈 Learn and grow through real projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- WordPress  
+- WooCommerce  
+- PHP  
+- JavaScript  
+- HTML / CSS
+
+I believe a website is never finished — there's always room to improve 🔁
